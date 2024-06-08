@@ -1,5 +1,6 @@
 {
   "name": "pyreqwiz",
+  "publisher": "khadeer369",
   "displayName": "PyReqWiz",
   "description": "AutoWrites Requirements for python project",
   "version": "0.0.1",
