@@ -1,4 +1,4 @@
-# pyreqwiz README
+# PyReqWiz README
 
 A VScode Extension capable of auto generating requirements for python project and running it with ease.
 
