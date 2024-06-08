@@ -51,8 +51,7 @@
       ]
     }
 
-  },
-  "scripts": {
+  },  "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
@@ -70,5 +69,9 @@
     "typescript": "^5.4.5",
     "@vscode/test-cli": "^0.0.9",
     "@vscode/test-electron": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khadeerthewizard/pyreqwiz.git"
   }
 }
